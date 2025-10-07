@@ -67,5 +67,6 @@ I’m always curious, always tinkering, and always looking for new challenges th
 ## 🤝 Connect with Me
 <div align="center">
   <a href="https://twitter.com/llowkeyll"><img src="https://img.shields.io/badge/Twitter-000?logo=twitter" /></a>
-  <a href="https://github.com/llowkeyll"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
+  <a href="https://github.com/FxnnBT"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
+  <a href="https://www.instagram.com/fxnn.020/"><img src="https://img.shields.io/badge/https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fmodern-badge-logo-instagram-icoon_578229-124.jpg%3Fw%3D360" /></a>
 </div>
