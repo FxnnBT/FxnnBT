@@ -58,8 +58,7 @@ I’m always curious, always tinkering, and always looking for new challenges th
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llowkeyll&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llowkeyll&theme=radical" height="180" />
+  <img src="https://img.shields.io/badge/https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DFxnnBT%26theme%3Dvue-dark%26show_icons%3Dtrue%26hide_border%3Dtrue%26layout%3Dcompact" height="180" />
 </div>
 
 ---
