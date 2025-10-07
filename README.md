@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**FxnnBT/FxnnBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?s=200" width="120" style="border-radius:50%;" />
+  <h1>Hi, I'm Fxnn 👋</h1>
+  <p><b>Software Developer & Full Stack Website Developer</b></p>
+  
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20collab-blue" />
+    <img src="https://img.shields.io/badge/Focus-Web%20Dev%20|%20Game%20Dev-purple" />
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a student and following courses to become a developer who thrives on building **practical, polished, and scalable solutions** — from full-stack web apps to automation tools and game server scripts.  
+I love bridging creativity with engineering, whether it’s crafting clean user experiences, designing backend systems that just work, or scripting immersive roleplay mechanics for gaming communities.  
+
+🔹 **Focus Areas**:  
+- Full-stack web development with modern frameworks  
+- Game development tooling (FiveM scripting, Lua systems)  
+- Discord bots
+
+🔹 **Core Philosophy**:  
+- **Clean code** is maintainable code  
+- **Performance and scalability** matter more than quick hacks  
+- **User experience** should always feel effortless  
+- **Learning by building** beats theory alone  
+
+I’m always curious, always tinkering, and always looking for new challenges that push me out of my comfort zone. If it involves **problem-solving, community impact, or clever engineering**, you’ll find me working on it.
+
+---
+
+## 🛠 Tech Stack
+<div align="center">
+  
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Lua](https://img.shields.io/badge/Lua-000?logo=lua)
+![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql)
+
+**Tools & Platforms**  
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions)
+![Discord.js](https://img.shields.io/badge/Discord.js-000?logo=discord)
+
+</div>
+
+---
+
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=llowkeyll&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llowkeyll&theme=radical" height="180" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+<div align="center">
+  <a href="https://twitter.com/llowkeyll"><img src="https://img.shields.io/badge/Twitter-000?logo=twitter" /></a>
+  <a href="https://github.com/llowkeyll"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
+</div>
