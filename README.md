@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/FxnnBT?s=200" width="120" style="border-radius:50%;" />
+  <img src="https://github.com/FxnnBT" width="120" style="border-radius:50%;" />
   <h1>Hi, I'm Fxnn 👋</h1>
   <p><b>Software Developer & Full Stack Website Developer</b></p>
   
