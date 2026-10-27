@@ -29,6 +29,7 @@ Client sites go to a hosting provider. My own projects run on a **Raspberry Pi I
 |---|---|---|
 | [**Marcel Hensema**](https://marcelhensema.nl) | Site for a solo theatre maker: cinematic hero, self-updating tour schedule with a PHP/MySQL admin panel, press quotes, newsletter | HTML · CSS · JS · PHP · MySQL |
 | [**Beldi Amsterdam**](https://beldiamsterdam.com) | Web shop for Moroccan goods, with server-side pricing and Stripe checkout *(in progress)* | HTML · CSS · JS · PHP · Stripe |
+| [**N.A.P. Amsterdam**](https://napamsterdam.nl/) | Sit for a restaurant: improved menu selection and user can add photos himself | HTML · CSS · JS · PHP · MySQL |
 
 ### Own projects
 | Project | What | Stack |
