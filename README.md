@@ -13,7 +13,7 @@
 
 ## 🚀 About me
 
-I'm Fynn, a Software Developer student at **Mediacollege Amsterdam** based in Bussum, the Netherlands.
+I'm Fynn, a Software Developer student at **Mediacollege Amsterdam** based in Amsterdam, the Netherlands.
 Next to my studies I run **[fynnworks](https://fynnworks.nl)**, my own web studio: I design and build websites for freelancers and small businesses. Fixed price up front, one point of contact, and I handle everything from design to domain, hosting, email and HTTPS.
 
 > *Student rates, not student work.*
