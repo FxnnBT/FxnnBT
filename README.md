@@ -98,6 +98,5 @@ Client sites go to a hosting provider. My own projects run on a **Raspberry Pi I
   <a href="https://fynnworks.nl"><img src="https://img.shields.io/badge/fynnworks.nl-000?logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:info@fynnworks.nl"><img src="https://img.shields.io/badge/✉_info@fynnworks.nl-000" /></a>
   <a href="https://www.linkedin.com/in/fynn-tervoort"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/llowkeyll"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/fxnn.020/"><img src="https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=white" /></a>
 </div>
